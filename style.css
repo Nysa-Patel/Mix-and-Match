@@ -1,0 +1,32 @@
+@font-face {
+    font-family: sleekfont;
+    src: url("sleek.ttf");
+  }
+  @font-face {
+    font-family: captionfont;
+    src: url("captionfont.ttf");
+  }
+
+
+body {
+    background-color: #00008b;
+    background-image: url("sleekbg.jpg");
+}
+h1{
+    color: #ffffff;
+    font-family: sleekfont;
+}
+.part1{
+    color: #ffffff;
+  font-family: "Open Sans";
+  font-family: sleekfont;
+}
+.part2{
+    color: #ffffff;
+  font-family: "Open Sans";
+      font-family: sleekfont;
+}
+.caption{
+    color: silver;
+    font-family: captionfont;
+}

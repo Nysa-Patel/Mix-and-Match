@@ -20,13 +20,16 @@ h1{
     color: #ffffff;
   font-family: "Open Sans";
   font-family: sleekfont;
+  font-size: large;
 }
 .part2{
     color: #ffffff;
   font-family: "Open Sans";
       font-family: sleekfont;
+      font-size: large;
 }
 .caption{
     color: silver;
     font-family: captionfont;
+    font-size: small;
 }

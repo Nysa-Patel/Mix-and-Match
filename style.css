@@ -10,8 +10,8 @@
 
 body {
     background-color: #00008b;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-              url('your-image.jpg');
+    background: linear-gradient(rgba(123, 120, 120, 0.5), rgba(0, 0, 0, 0.5)), 
+              url('sleekbg.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -36,3 +36,4 @@ h1{
     font-family: captionfont;
     font-size: small;
 }
+
